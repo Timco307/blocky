@@ -1,7 +1,7 @@
 ! Title: Super blocklist
 ! Format: Adblock Plus
 
-||powerschool.lsr7.org###content-main
-||powerschool.lsr7.org###btn-gradesAttendance
-||powerschool.lsr7.org###btn-gradesHistory
-||powerschool.lsr7.org###login-inputs
+powerschool.lsr7.org###content-main
+powerschool.lsr7.org###btn-gradesAttendance
+powerschool.lsr7.org###btn-gradesHistory
+powerschool.lsr7.org###login-inputs
